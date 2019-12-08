@@ -1,13 +1,3 @@
- 13
-
-Advantage of the Union in Respect to Economy in Government
-
-For the Independent Journal. Wednesday, November 28, 1787
-
-HAMILTON
-
-To the People of the State of New York:
-
 As CONNECTED with the subject of revenue, we may with propriety consider
 that of economy. The money saved from one object may be usefully applied
 to another, and there will be so much the less to be drawn from the
@@ -96,7 +86,7 @@ would be divided, we shall clearly discover that a separation would be
 not less injurious to the economy, than to the tranquillity, commerce,
 revenue, and liberty of every part.
 
-PUBLIUS
+
 
 
 

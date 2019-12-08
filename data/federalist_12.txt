@@ -1,13 +1,3 @@
- 12
-
-The Utility of the Union In Respect to Revenue
-
-From the New York Packet. Tuesday, November 27, 1787.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THE effects of Union upon the commercial prosperity of the States have
 been sufficiently delineated. Its tendency to promote the interests of
 revenue will be the subject of our present inquiry.
@@ -209,8 +199,6 @@ valuable class of the citizens who are employed in the cultivation of
 the soil. But public and private distress will keep pace with each
 other in gloomy concert; and unite in deploring the infatuation of those
 counsels which led to disunion.
-
-PUBLIUS
 
 1. If my memory be right they amount to twenty per cent.
 
