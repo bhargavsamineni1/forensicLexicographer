@@ -39,13 +39,12 @@ def averageWordsPerSentence(text):
     return wordCount/len(sentences)
 
 '''
-A method that calulates the frequency distribution of word lengths in a text
+A method that calulates the frequency of words of length 2 in a text
 Input: A string of text
-Output: A dictionary where the keys are the different word lenghts and the values are the 
-        frequencies of each word length relative to lengths of words in the entire text
+Output: An integer representing the frequency of words of length 2 in the text
 '''
-def wordFrequencyByLength(text):
-    wordLengthFreq = {}
+def wordFrequencyOfLengthTwo(text):
+    lengthTwoCount = 0
     sentences = splitIntoSentences(text)
     totalWords = 0
     for sentence in sentences:
@@ -54,14 +53,10 @@ def wordFrequencyByLength(text):
         words = sentence.split()
         totalWords += len(words)
         for word in words:
-            if len(word) not in wordLengthFreq:
-                wordLengthFreq[len(word)] = 1
-            else:
-                wordLengthFreq[len(word)] += 1
-    
-    for wordLen in wordLengthFreq:
-        wordLengthFreq[wordLen] = round(wordLengthFreq[wordLen]/totalWords, 5)
-    return wordLengthFreq
+            if len(word) == 2:
+                lengthTwoCount += 1
+
+    return round(lengthTwoCount/totalWords, 5)
 
 '''
 A method that calculates the number of semicolons in a piece of text
@@ -70,3 +65,33 @@ Output: A integer representing the count of the number of semicolons in the text
 '''
 def semicolonCount(text):
     return text.count(';')
+
+'''
+A method that creates the metric that the text will be tested on
+Input: A string of text
+Output: A float that is the sum of the semicolon count, the avg words per sentence, and the 
+        frequnecy of words of length 2 * 100 in the text
+'''
+def createMetric(text):
+    wordLengthTwoFreq = 100 * wordFrequencyOfLengthTwo(text)
+    semiCount = semicolonCount(text)
+    avgWordsSentence = averageWordsPerSentence(text)
+    metric = wordLengthTwoFreq + semiCount + avgWordsSentence
+    return metric
+
+'''
+A method that creates a 95% confidence interval using the t distribution
+Input: A list of metrics that correspond to a text
+Output: A tuple that denotes a 95% confidence interval for the population mean metric
+        of the author
+'''
+def createConfidenceInt(metricList):
+    #alpha = .05
+    df = len(metricList) - 1
+    critVals = {11: 2.201, 47:2.01, 3: 3.182}
+
+    sampleMean = sum([metric for metric in metricList]) / len(metricList)
+    sampleSD = (sum([(metric-sampleMean)**2 for metric in metricList]) / df) ** .5
+    critVal = critVals[df]
+    error = critVal * sampleSD / (len(metricList)**.5)
+    return (sampleMean - error, sampleMean, sampleMean + error)
