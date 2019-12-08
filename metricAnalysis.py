@@ -4,7 +4,7 @@ Input: A integer representing the paper to return as a string
 Output: A string that contains the contents of the paper
 '''
 def textString(papernum):
-    f = open('data/federalist_' + str(num) + '.txt')
+    f = open('data/federalist_' + str(papernum) + '.txt')
     textString = f.read()
     f.close()
     return textString
