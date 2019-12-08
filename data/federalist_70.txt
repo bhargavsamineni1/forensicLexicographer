@@ -1,13 +1,3 @@
- 70
-
-The Executive Department Further Considered
-
-From The Independent Journal. Saturday, March 15, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THERE is an idea, which is not without its advocates, that a vigorous
 Executive is inconsistent with the genius of republican government. The
 enlightened well-wishers to this species of government must at least
@@ -323,8 +313,6 @@ to the appearance of the Constitution, I rarely met with an intelligent
 man from any of the States, who did not admit, as the result of
 experience, that the UNITY of the executive of this State was one of the
 best of the distinguishing features of our constitution.
-
-PUBLIUS
 
 1. New York has no council except for the single purpose of appointing
 to offices; New Jersey has a council whom the governor may consult. But

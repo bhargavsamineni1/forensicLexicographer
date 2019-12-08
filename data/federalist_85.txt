@@ -1,13 +1,3 @@
- 85
-
-Concluding Remarks
-
-From MCLEAN's Edition, New York. Wednesday, May 28, 1788
-
-HAMILTON
-
-To the People of the State of New York:
-
 ACCORDING to the formal division of the subject of these papers,
 announced in my first number, there would appear still to remain for
 discussion two points: "the analogy of the proposed government to your
@@ -254,8 +244,6 @@ passed over so considerable a part of the ground, to recommence the
 course. I dread the more the consequences of new attempts, because I
 know that POWERFUL INDIVIDUALS, in this and in other States, are enemies
 to a general national government in every possible shape.
-
-PUBLIUS
 
 1. Entitled "An Address to the People of the State of New York."
 

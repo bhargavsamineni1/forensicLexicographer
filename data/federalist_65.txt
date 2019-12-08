@@ -1,13 +1,3 @@
- 65
-
-The Powers of the Senate Continued
-
-From the New York Packet. Friday, March 7, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THE remaining powers which the plan of the convention allots to the
 Senate, in a distinct capacity, are comprised in their participation
 with the executive in the appointment to offices, and in their judicial
@@ -194,7 +184,6 @@ Constitution, they ought to prove, not merely that particular provisions
 in it are not the best which might have been imagined, but that the plan
 upon the whole is bad and pernicious.
 
-PUBLIUS
 
 
 

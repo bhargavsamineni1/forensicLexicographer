@@ -1,13 +1,3 @@
- 64
-
-The Powers of the Senate
-
-From The Independent Journal. Wednesday, March 5, 1788.
-
-JAY
-
-To the People of the State of New York:
-
 IT IS a just and not a new observation, that enemies to particular
 persons, and opponents to particular measures, seldom confine their
 censures to such things only in either as are worthy of blame. Unless on
@@ -223,7 +213,6 @@ circumstances considered, could be made; and so far as the fear of
 punishment and disgrace can operate, that motive to good behavior is
 amply afforded by the article on the subject of impeachments.
 
-PUBLIUS
 
 
 

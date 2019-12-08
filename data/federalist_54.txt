@@ -1,13 +1,3 @@
- 54
-
-The Apportionment of Members Among the States
-
-From the New York Packet. Tuesday, February 12, 1788.
-
-MADISON
-
-To the People of the State of New York:
-
 THE next view which I shall take of the House of Representatives relates
 to the appointment of its members to the several States which is to be
 determined by the same rule with that of direct taxes.
@@ -193,7 +183,6 @@ temptation would prevail. By extending the rule to both objects, the
 States will have opposite interests, which will control and balance each
 other, and produce the requisite impartiality.
 
-PUBLIUS
 
 
 

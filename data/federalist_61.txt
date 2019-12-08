@@ -1,14 +1,3 @@
- 61
-
-The Same Subject Continued (Concerning the Power of Congress to Regulate
-the Election of Members)
-
-From the New York Packet. Tuesday, February 26, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THE more candid opposers of the provision respecting elections,
 contained in the plan of the convention, when pressed in argument,
 will sometimes concede the propriety of that provision; with this
@@ -142,7 +131,6 @@ as a fundamental point, what would deprive several States of the
 convenience of having the elections for their own governments and for
 the national government at the same epochs.
 
-PUBLIUS
 
 
 

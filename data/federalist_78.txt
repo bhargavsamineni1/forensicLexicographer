@@ -1,13 +1,3 @@
- 78
-
-The Judiciary Department
-
-From McLEAN'S Edition, New York. Wednesday, May 28, 1788
-
-HAMILTON
-
-To the People of the State of New York:
-
 WE PROCEED now to an examination of the judiciary department of the
 proposed government.
 
@@ -297,8 +287,6 @@ point of duration; and that so far from being blamable on this account,
 their plan would have been inexcusably defective, if it had wanted this
 important feature of good government. The experience of Great Britain
 affords an illustrious comment on the excellence of the institution.
-
-PUBLIUS
 
 1. The celebrated Montesquieu, speaking of them, says: "Of the three
 powers above mentioned, the judiciary is next to nothing."--Spirit of

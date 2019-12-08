@@ -1,13 +1,3 @@
- 71
-
-The Duration in Office of the Executive
-
-From the New York Packet. Tuesday, March 18, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 DURATION in office has been mentioned as the second requisite to the
 energy of the Executive authority. This has relation to two objects: to
 the personal firmness of the executive magistrate, in the employment
@@ -159,8 +149,6 @@ authorities of a President of the United States? What, but that he might
 be unequal to the task which the Constitution assigns him? I shall only
 add, that if his duration be such as to leave a doubt of his firmness,
 that doubt is inconsistent with a jealousy of his encroachments.
-
-PUBLIUS
 
 1. This was the case with respect to Mr. Fox's India bill, which was
 carried in the House of Commons, and rejected in the House of Lords, to

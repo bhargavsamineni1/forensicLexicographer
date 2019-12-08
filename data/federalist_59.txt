@@ -1,13 +1,3 @@
- 59
-
-Concerning the Power of Congress to Regulate the Election of Members
-
-From the New York Packet. Friday, February 22, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THE natural order of the subject leads us to consider, in this place,
 that provision of the Constitution which authorizes the national
 legislature to regulate, in the last resort, the election of its own
@@ -183,8 +173,6 @@ some of them. Its preservation, therefore ought in no case that can
 be avoided, to be committed to the guardianship of any but those whose
 situation will uniformly beget an immediate interest in the faithful and
 vigilant performance of the trust.
-
-PUBLIUS
 
 1. 1st clause, 4th section, of the 1st article.
 

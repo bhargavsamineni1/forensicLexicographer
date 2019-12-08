@@ -1,13 +1,3 @@
- 73
-
-The Provision For The Support of the Executive, and the Veto Power
-
-From the New York Packet. Friday, March 21, 1788.
-
-HAMILTON
-
-To the People of the State of New York:
-
 THE third ingredient towards constituting the vigor of the executive
 authority, is an adequate provision for its support. It is evident
 that, without proper attention to this article, the separation of the
@@ -223,8 +213,6 @@ is impossible to keep the judges too distinct from every other avocation
 than that of expounding the laws. It is peculiarly dangerous to
 place them in a situation to be either corrupted or influenced by the
 Executive.
-
-PUBLIUS
 
 1. Mr. Abraham Yates, a warm opponent of the plan of the convention is
 of this number.

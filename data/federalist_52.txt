@@ -1,13 +1,3 @@
- 52
-
-The House of Representatives
-
-From the New York Packet. Friday, February 8, 1788.
-
-MADISON
-
-To the People of the State of New York:
-
 FROM the more general inquiries pursued in the four last papers, I
 pass on to a more particular examination of the several parts of the
 government. I shall begin with the House of Representatives.
@@ -179,7 +169,6 @@ by the other branches of the government above cited. With less power,
 therefore, to abuse, the federal representatives can be less tempted on
 one side, and will be doubly watched on the other.
 
-PUBLIUS
 
 
 
