@@ -1,13 +1,3 @@
- 15
-
-The Insufficiency of the Present Confederation to Preserve the Union
-
-For the Independent Journal. Saturday, December 1, 1787
-
-HAMILTON
-
-To the People of the State of New York.
-
 IN THE course of the preceding papers, I have endeavored, my fellow
 citizens, to place before you, in a clear and convincing light, the
 importance of Union to your political safety and happiness. I have
@@ -293,8 +283,6 @@ without hesitation, combat. Each State, yielding to the persuasive voice
 of immediate interest or convenience, has successively withdrawn its
 support, till the frail and tottering edifice seems ready to fall upon
 our heads, and to crush us beneath its ruins.
-
-PUBLIUS
 
 1. "I mean for the Union."
 

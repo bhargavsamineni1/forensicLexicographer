@@ -1,14 +1,3 @@
- 27
-
-The Same Subject Continued (The Idea of Restraining the Legislative
-Authority in Regard to the Common Defense Considered)
-
-From the New York Packet. Tuesday, December 25, 1787.
-
-HAMILTON
-
-To the People of the State of New York:
-
 IT HAS been urged, in different shapes, that a Constitution of the kind
 proposed by the convention cannot operate without the aid of a military
 force to execute its laws. This, however, like most other things
@@ -139,8 +128,6 @@ national rulers would be insensible to the motives of public good, or
 to the obligations of duty, I would still ask them how the interests
 of ambition, or the views of encroachment, can be promoted by such a
 conduct?
-
-PUBLIUS
 
 1. The sophistry which has been employed to show that this will tend
 to the destruction of the State governments, will, in its will, in its

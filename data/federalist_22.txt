@@ -1,13 +1,3 @@
- 22
-
-The Same Subject Continued (Other Defects of the Present Confederation)
-
-From the New York Packet. Friday, December 14, 1787.
-
-HAMILTON
-
-To the People of the State of New York:
-
 IN ADDITION to the defects already enumerated in the existing federal
 system, there are others of not less importance, which concur in
 rendering it altogether unfit for the administration of the affairs of
@@ -333,8 +323,6 @@ mere sanction of delegated authority. The fabric of American empire
 ought to rest on the solid basis of THE CONSENT OF THE PEOPLE. The
 streams of national power ought to flow immediately from that pure,
 original fountain of all legitimate authority.
-
-PUBLIUS
 
 1. This, as nearly as I can recollect, was the sense of his speech on
 introducing the last bill.

@@ -1,13 +1,3 @@
- 21
-
-Other Defects of the Present Confederation
-
-For the Independent Journal. Wednesday, December 12, 1787
-
-HAMILTON
-
-To the People of the State of New York:
-
 HAVING in the three last numbers taken a summary review of the principal
 circumstances and events which have depicted the genius and fate of
 other confederate governments, I shall now proceed in the enumeration of
@@ -196,7 +186,7 @@ found in the nature of things, the establishment of a fixed rule, not
 incompatible with the end, may be attended with fewer inconveniences
 than to leave that discretion altogether at large.
 
-PUBLIUS
+
 
 
 
