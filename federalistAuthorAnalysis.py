@@ -60,8 +60,18 @@ for i in range(len(testingPapersAuthors)):
             testingPapersAuthors[i])
     if correctTestingPaperAuthors[i] == testingPapersAuthors[i]:
         accurateCount += 1
-
-
 print('\nAccuracy:', accurateCount/len(testingPapersAuthors))
 
+'''
+Paper Num  Actual Author  Author Guess
+--------------------------------------
+14         Madison        Madison
+41         Madison        Madison
+8          Hamilton       Jay
+35         Hamilton       Hamilton
+17         Hamilton       Jay
+2          Jay            Jay
+
+Accuracy: 0.6666666666666666
+'''
 
