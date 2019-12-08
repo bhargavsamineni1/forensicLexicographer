@@ -1,14 +1,12 @@
 '''
-Method to compile all the text in a list of papernumbers into one string
-Input: A list of the papernumbers to be combined
-Output: A string that contains the contents of each paper in the input list
+Method to return to contents of a text as a string
+Input: A integer representing the paper to return as a string
+Output: A string that contains the contents of the paper
 '''
-def textString(papernums):
-    textString = ''
-    for num in papernums:
-        f = open('data/federalist_' + str(num) + '.txt')
-        textString += f.read()
-        f.close()
+def textString(papernum):
+    f = open('data/federalist_' + str(num) + '.txt')
+    textString = f.read()
+    f.close()
     return textString
 
 '''
