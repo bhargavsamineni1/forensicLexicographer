@@ -1,14 +1,3 @@
- 1
-
-General Introduction
-
-For the Independent Journal. Saturday, October 27, 1787
-
-
-HAMILTON
-
-To the People of the State of New York:
-
 AFTER an unequivocal experience of the inefficacy of the subsisting
 federal government, you are called upon to deliberate on a new
 Constitution for the United States of America. The subject speaks its
@@ -156,8 +145,6 @@ of the Union. It will therefore be of use to begin by examining the
 advantages of that Union, the certain evils, and the probable dangers,
 to which every State will be exposed from its dissolution. This shall
 accordingly constitute the subject of my next address.
-
-PUBLIUS
 
 1. The same idea, tracing the arguments to their consequences, is held
 out in several of the late publications against the new Constitution.
