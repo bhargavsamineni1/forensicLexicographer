@@ -1,3 +1,5 @@
+#Bhargav and Gabe
+
 from metricAnalysis import textString, createConfidenceInt, createMetric
 trainingPapers = {
     'Madison': [10, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48],

@@ -1,3 +1,5 @@
+#Bhargav and Gabe
+
 '''
 Method to return to contents of a text as a string
 Input: A integer representing the paper to return as a string
