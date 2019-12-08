@@ -71,7 +71,7 @@ Output: A float that is the sum of the semicolon count, the avg words per senten
         frequnecy of words of length 2 * 100 in the text
 '''
 def createMetric(text):
-    wordLengthTwoFreq = wordFrequencyOfLengthTwo(text)
+    wordLengthTwoFreq = 100 * wordFrequencyOfLengthTwo(text)
     semiCount = semicolonCount(text)
     avgWordsSentence = averageWordsPerSentence(text)
     metric = wordLengthTwoFreq + semiCount + avgWordsSentence
