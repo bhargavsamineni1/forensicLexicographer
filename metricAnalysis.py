@@ -78,15 +78,15 @@ def createMetric(text):
     return metric
 
 '''
-A method that creates a 99% confidence interval using the t distribution
+A method that creates a 98% confidence interval using the t distribution
 Input: A list of metrics that correspond to a text
-Output: A tuple that denotes a 99% confidence interval for the population mean metric
+Output: A tuple that denotes a 98% confidence interval for the population mean metric
         of the author
 '''
 def createConfidenceInt(metricList):
-    #alpha = .05
+    #alpha = .02
     df = len(metricList) - 1
-    critVals = {11: 3.106, 47: 2.704, 3: 5.841}
+    critVals = {11: 2.718, 47: 2.423, 3: 4.541}
 
     sampleMean = sum([metric for metric in metricList]) / len(metricList)
     sampleSD = (sum([(metric-sampleMean)**2 for metric in metricList]) / df) ** .5
